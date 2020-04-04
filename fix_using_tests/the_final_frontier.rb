@@ -14,7 +14,3 @@ def engage
     puts state_log(date)
 
 end
-
-generate_star_date
-state_log(75)
-engage
