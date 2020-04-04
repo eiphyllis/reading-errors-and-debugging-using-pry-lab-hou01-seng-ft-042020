@@ -3,7 +3,7 @@ require 'pry'
 puts "hello"
 def snake_it_up(string)
   if string[0] == "s"
-   "ssssssssss" + string
+   cow = "ssssssssss" + string
    puts cow
    binding.pry
   else
